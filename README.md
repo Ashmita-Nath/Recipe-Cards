@@ -28,16 +28,16 @@ python3 -m http.server 8000
 ```
 Then visit `http://localhost:8000/recipieCard.html` in your browser.
 
-## Screenshots
+## Screenshots  :camera: 📷
 
 ![Recipe Card](Screenshots/ss1.png)
 
-### Dishes
+### Dishes :cook: 🍳
 ![Dishes](Screenshots/ss2.png)
 
-### Dishes
+### Dishes :pizza: 🍕
 ![Recipies](Screenshots/ss3.png)
-Dishes
+Dishes :sparkles: ✨
 ![Recipies](Screenshots/ss4.png)
 
 ## Author
