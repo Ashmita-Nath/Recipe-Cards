@@ -31,8 +31,8 @@ Then visit `http://localhost:8000/recipieCard.html` in your browser.
 ## Screenshots
 
 ![Recipe Card](Screenshots/ss1.png)
-(Screenshots/ss2.png)
-(Screenshots/ss3.png)
+![Dishes](Screenshots/ss2.png)
+![Recipies](Screenshots/ss3.png)
 
 ## Author
 
