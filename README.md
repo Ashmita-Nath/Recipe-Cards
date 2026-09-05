@@ -4,46 +4,25 @@ A recipe card web module — a small, self-contained UI component for displaying
 
 ## Tech Stack
 
-- HTML5
-- CSS3
-- JavaScript
+HTML5, CSS3, JavaScript
 
 ## Running Locally
 
-No build step or dependencies required.
-
-**Option 1 — Quickest**
-1. Clone the repo: `git clone https://github.com/Ashmita-Nath/Recipe-Cards.git`
-2. Open `recipieCard.html` directly in your browser (double-click the file, or right-click → Open With → your browser).
-
-**Option 2 — Recommended (fixes relative-path/asset issues)**
-1. Open the project folder in VS Code.
-2. Install the **Live Server** extension.
-3. Right-click `recipieCard.html` → **Open with Live Server**.
-
-**Option 3 — No extensions needed**
 ```bash
+git clone https://github.com/Ashmita-Nath/Recipe-Cards.git
 cd Recipe-Cards
 python3 -m http.server 8000
 ```
-Then visit `http://localhost:8000/recipieCard.html` in your browser.
 
-## Demo 
-👉 **[Try it live here](https://agent-6a9bd620e6e7a02--venerable-banoffee-97aa8a.netlify.app)**
+Then visit `http://localhost:8000/recipieCard.html`.
 
+## Screenshots
 
+### Desktop View
+![Recipe Card Desktop](Screenshots/recipe_card_desktop.png)
 
-## Screenshots  :camera: 📷
-
-![Recipe Card](Screenshots/ss1.png)
-
-### Dishes :cook: 🍳
-![Dishes](Screenshots/ss2.png)
-
-### Dishes :pizza: 🍕
-![Recipies](Screenshots/ss3.png)
-Dishes :sparkles: ✨
-![Recipies](Screenshots/ss4.png)
+### Mobile Responsive View
+![Recipe Card Mobile](Screenshots/recipe_card_mobile.png)
 
 ## Author
 
