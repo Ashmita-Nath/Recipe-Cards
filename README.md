@@ -28,6 +28,9 @@ python3 -m http.server 8000
 ```
 Then visit `http://localhost:8000/recipieCard.html` in your browser.
 
+## Demo 
+👉 **[Try it live here](https://agent-6a9bd620e6e7a02--venerable-banoffee-97aa8a.netlify.app)**
+
 
 
 ## Screenshots  :camera: 📷
