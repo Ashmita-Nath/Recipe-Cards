@@ -32,7 +32,7 @@ Then visit `http://localhost:8000/recipieCard.html` in your browser.
 
 _Add screenshots here once captured — see the project's own screenshot files in the repo root for reference shots._
 
-![Recipe Card](Screenshot 2025-08-20 at 12.43.45 AM.png)
+![Recipe Card](./Screenshot 2025-08-20 at 12.43.45 AM.png)
 
 ## Author
 
